@@ -1,0 +1,1 @@
+Moved the Repository to: https://github.com/chanan/AwsConsole
